@@ -6,6 +6,7 @@
     <string name="T1_Ans2">Better ask him if he\'s a murderer first. </string>
 
 
+
     <string name="T2_Story">He nods slowly, unphased by the question.</string>
     <string name="T2_Ans1">At least he\'s honest. I\'ll climb in.</string>
     <string name="T2_Ans2">Wait, I know how to change a tire.</string>
@@ -20,4 +21,5 @@
     <string name="T5_End">As you smash through the guardrail and careen towards the jagged rocks below you reflect on the dubious wisdom of stabbing someone while they are driving a car you are in.</string>
     <string name="T6_End">You bond with the murderer while crooning verses of "Can you feel the love tonight". He drops you off at the next town. Before you go he asks you if you know any good places to dump bodies. You reply: \"Try the pier.\"</string>
 
+    <string name="StoryEnd">New Story </string>
 </resources>

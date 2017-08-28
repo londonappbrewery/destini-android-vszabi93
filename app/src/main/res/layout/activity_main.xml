@@ -52,6 +52,16 @@
         android:textColor="#ecf0f1"
         android:textSize="15sp"/>
 
+    <Button
+        android:id="@+id/buttonReset"
+        android:layout_width="300dp"
+        android:layout_height="280dp"
+        android:layout_below="@+id/storyTextView"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/holo_green_dark"
+        android:text="@string/StoryEnd"
+        android:textColor="#ffffff"
+        android:textSize="40sp"/>
 
 
 </RelativeLayout>
